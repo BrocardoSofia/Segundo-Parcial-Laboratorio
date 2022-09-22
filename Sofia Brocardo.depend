@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\sofia\desktop\sofia brocardo\sofia brocardo\pila.c
+	"pila.h"
+
+1490112217 c:\users\sofia\desktop\sofia brocardo\sofia brocardo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1654616732 source:c:\users\sofia\desktop\sofia brocardo\sofia brocardo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1654616987 source:c:\users\sofia\desktop\lab 1 2022\segundo parcial\segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1490112217 c:\users\sofia\desktop\lab 1 2022\segundo parcial\segundo parcial\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\sofia\desktop\lab 1 2022\segundo parcial\segundo parcial\pila.c
+	"pila.h"
+
